@@ -25,5 +25,5 @@ README setup follow guide from https://docs.google.com/document/d/1nWjxWLepoW1-Y
 ## Wednesday & Thursday - REST with JAX RS
 -----
 1. Done with all parts of assignment, that is for week 1.
-2. https://github.com/Micniks/REST_Persons_DTO, 
+2. https://github.com/Micniks/REST_Persons_DTO, Most of the assignment is on the master branch, and the address addition is on a different branch, as instructed.
 3. Training testing of JPA, Restassured, and relationships.
